@@ -251,4 +251,3 @@ Esses arquivos constituem a base final para visualização e análise no dashboa
 Este projeto foi estruturado para manter uma relação direta entre dados originais, tratamento analítico e visualização. A forma como os scripts foram organizados reflete uma lógica de validação, padronização e modelagem dimensional simples, adequada ao contexto acadêmico e ao objetivo de apoiar a leitura dos indicadores de segurança viária.
 
 O repositório preserva tanto a origem dos dados quanto a lógica de transformação aplicada, o que facilita a compreensão do processo e a reprodutibilidade da análise.
-# acidentes-transito-prf-parana
